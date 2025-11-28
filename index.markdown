@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# welcome to my blog
+
+here you can find my thoughts, experiments and whatever comes up to my mind.
